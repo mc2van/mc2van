@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Imgur Image](https://i.imgur.com/GWjoukh.gif)
+![Imgur Image](https://i.imgur.com/oaZqc3m.mp4)
 
 
 <!--
