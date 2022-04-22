@@ -1,7 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-![Imgur Image](https://i.imgur.com/oaZqc3m.mp4)
+- 🎓 I'm Evan, a second year computer science student at the University of Waterloo.
+- 🔭 I love working with challenging projects, and I'm a huge nerd at heart (if you couldn't tell by the username).
+- 🌱 Learning anything and everything I can!
 
+<p align="center">
+<img src="https://i.imgur.com/2amJpXE.gif" align="center" height="250px"/>
+</p>
 
 <!--
 **mc2van/mc2van** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
