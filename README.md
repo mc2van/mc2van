@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎓 I'm Evan, a second year computer science student at the University of Waterloo.
+- 🎓 I'm Evan, a third year computer science student at the University of Waterloo.
 - 🔭 I love working with challenging projects, and I'm a huge nerd at heart (if you couldn't tell by the username).
 - 🌱 Learning anything and everything I can!
 
